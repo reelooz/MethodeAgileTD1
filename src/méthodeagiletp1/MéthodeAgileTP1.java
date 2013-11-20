@@ -16,7 +16,7 @@ public class MéthodeAgileTP1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println ("Hello Maxime thomas Parakeet Jean-Hugues deathpote");
+        System.out.println ("Hello thomas Parakeet Jean-Hugues deathpote");
     }
     
     
